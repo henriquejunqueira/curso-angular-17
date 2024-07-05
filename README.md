@@ -1,6 +1,8 @@
 # Curso de Angular v2 ao v17: Básico ao Profissional
 
-Nesse repositório estou salvando os arquivos, exercícios e projetos do curso do Felipe da Silva Freitas.
+Nesse repositório estou salvando os arquivos, exercícios e projetos do curso do Felipe da Silva Freitas disponível na plataforma da Udemy no link:
+
+<a href="https://www.udemy.com/course/super-treinamento-de-angular-16-do-basico-ao-avancado/">Curso de Angular v2 ao v17: Básico ao Profissional</a>
 
 O curso aborda:
 
