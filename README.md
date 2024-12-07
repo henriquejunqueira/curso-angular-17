@@ -6,88 +6,95 @@ Nesse repositório estou salvando os arquivos, exercícios e projetos do curso d
 
 O curso aborda:
 
--   Organização de projeto (pastas, arquivos e nomenclaturas)
+- Organização de projeto (pastas, arquivos e nomenclaturas)
 
--   Desenvolvimento de aplicações web em Angular
+- Desenvolvimento de aplicações web em Angular
 
--   Padronização de aplicações Angular
+- Padronização de aplicações Angular
 
--   Organização de projetos Angular
+- Organização de projetos Angular
 
--   Componentização (evitando a duplicação de código)
+- Componentização (evitando a duplicação de código)
 
--   Criação de Templates dinâmicos
+- Criação de Templates dinâmicos
 
--   Binding de dados (Event Binding, Property Binding, Attribute Binding, etc.)
+- Binding de dados (Event Binding, Property Binding, Attribute Binding, etc.)
 
--   Projeção de Conteúdo
+- Projeção de Conteúdo
 
--   Pipes
+- Pipes
 
--   Criação de formulários com Template-Driven Forms
+- Criação de formulários com Template-Driven Forms
 
--   Utilização do Angular Material
+- Utilização do Angular Material
 
--   Diretivas
+- Diretivas
 
--   Chamadas HTTP (Request e Response)
+- Chamadas HTTP (Request e Response)
 
--   CORS
+- CORS
 
--   Renderização de páginas Web (Critical Rendering Path)
+- Renderização de páginas Web (Critical Rendering Path)
 
--   SASS
+- SASS
 
--   CSS
+- CSS
 
--   Padronização BEM
+- Padronização BEM
 
--   Build System (Grunt e Webpack)
+- Build System (Grunt e Webpack)
 
--   NPM
+- NPM
 
--   JavaScript (polyfills, programação funcional, fluxo de execução, etc.)
+- JavaScript (polyfills, programação funcional, fluxo de execução, etc.)
 
--   TypeScript (Decorators, tipagens dinâmicas, etc.)
+- TypeScript (Decorators, tipagens dinâmicas, etc.)
 
--   Modularização @NgModule, SCAM e Standalone
+- Modularização @NgModule, SCAM e Standalone
 
--   Formulários Template-Driven Forms e Reactive Forms
+- Formulários Template-Driven Forms e Reactive Forms
 
--   Diretivas NgIf, NgFor, NgClass e NgStyle
+- Diretivas NgIf, NgFor, NgClass e NgStyle
 
--   Decorators @ViewChild, @ViewChildren, @Input e @Output
+- Decorators @ViewChild, @ViewChildren, @Input e @Output
 
--   Two-Way Data Binding
+- Two-Way Data Binding
 
--   Pipes (AsyncPipe, CurrencyPipe, DatePipe, etc...)
+- Pipes (AsyncPipe, CurrencyPipe, DatePipe, etc...)
 
--   Projeção de Conteúdo (ng-content, ng-template, ngTemplateOutlet)
+- Projeção de Conteúdo (ng-content, ng-template, ngTemplateOutlet)
 
--   Diretivas com @HostBinding, @HostListener e ElementRef
+- Diretivas com @HostBinding, @HostListener e ElementRef
 
--   Organização de Projetos Angular: pastas, arquivos, nomenclaturas, interfaces
+- Organização de Projetos Angular: pastas, arquivos, nomenclaturas, interfaces
 
--   Entendimento das principais funcionalidades do Angular
+- Entendimento das principais funcionalidades do Angular
 
--   Componentização pensada para o futuro evitando a duplicação de código
+- Componentização pensada para o futuro evitando a duplicação de código
 
--   Separação adequada das responsabilidades do componente
+- Separação adequada das responsabilidades do componente
 
--   Criação de templates dinâmicos
+- Criação de templates dinâmicos
 
--   Injeção de Dependência
+- Injeção de Dependência
 
--   Observables RXJS síncronos e assíncronos
+- Observables RXJS síncronos e assíncronos
 
--   Lifecycles do componente
+- Lifecycles do componente
 
--   Padronização de projetos Angular de fácil manutenção
+- Padronização de projetos Angular de fácil manutenção
 
--   Formulários com Angular Material
+- Formulários com Angular Material
 
--   Desenvolvimento Web (HTML, CSS, SASS)
+- Desenvolvimento Web (HTML, CSS, SASS)
 
--   Tipagem de dados com TypeScript em Projetos Angular
+- Tipagem de dados com TypeScript em Projetos Angular
 
--   E muitas outras funcionalidades do Angular
+- E muitas outras funcionalidades do Angular
+
+### Comandos:
+
+- Criar projetos na arquitetura do curso na versão 16 tendo a 17v instalada:
+- `$ ng new nome_projeto --no-standalone`
+- ? Which stylesheet format would you like to use? Sass (SCSS)
+- ? Do you want to enable Server-Side Rendering (SSR) and Static Site Generation (SSG/Prerendering)? No
