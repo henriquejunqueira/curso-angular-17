@@ -94,15 +94,18 @@
 
 ### Comandos:
 
-- Criar projetos na arquitetura do curso na versão 16 tendo a 17v instalada:
+#### Criar projetos na arquitetura do curso na versão 16 tendo a 17v instalada:
+
 - `$ ng new nome_projeto --no-standalone`
 - ? Which stylesheet format would you like to use? Sass (SCSS)
 - ? Do you want to enable Server-Side Rendering (SSR) and Static Site Generation (SSG/Prerendering)? No
 
-- Criar projetos com a ultima versão do @angular/cli de forma global:
+#### Criar projetos com a ultima versão do @angular/cli de forma global:
+
 - `$ npm update -g @angular/cli`
 
-- Criar projetos em versões específicas (colocando a tag da versão após o @):
+#### Criar projetos em versões específicas (colocando a tag da versão após o @):
+
 - `$ npm install -g @angular/cli@v8-lts`
 - `$ npm install -g @angular/cli@latest`
 - `$ npm install -g @angular/cli@v12-lts`
