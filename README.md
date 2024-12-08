@@ -2,7 +2,7 @@
 
 Nesse repositório estou salvando os arquivos, exercícios e projetos do curso do Felipe da Silva Freitas disponível na plataforma da Udemy no link:
 
-<a href="https://www.udemy.com/course/super-treinamento-de-angular-16-do-basico-ao-avancado/">Curso de Angular v2 ao v17: Básico ao Profissional</a>
+[Curso de Angular v2 ao v17: Básico ao Profissional]("https://www.udemy.com/course/super-treinamento-de-angular-16-do-basico-ao-avancado/")
 
 O curso aborda:
 
@@ -98,3 +98,11 @@ O curso aborda:
 - `$ ng new nome_projeto --no-standalone`
 - ? Which stylesheet format would you like to use? Sass (SCSS)
 - ? Do you want to enable Server-Side Rendering (SSR) and Static Site Generation (SSG/Prerendering)? No
+
+- Criar projetos com a ultima versão do @angular/cli de forma global:
+- `$ npm update -g @angular/cli`
+
+- Criar projetos em versões específicas (colocando a tag da versão após o @):
+- `$ npm install -g @angular/cli@v8-lts`
+- `$ npm install -g @angular/cli@latest`
+- `$ npm install -g @angular/cli@v12-lts`
